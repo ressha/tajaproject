@@ -34,6 +34,7 @@ void positionT(){
 			userinput=0; //사용자 입력 초기화
 		}
 		else if(userinput==27){ //Esc 입력시 이하 실행
+		system("cls");
 		main(); //메인 함수(선택장면)으로 돌아감
 		}
 		else{
