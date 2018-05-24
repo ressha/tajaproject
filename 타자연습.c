@@ -57,6 +57,6 @@ int main(){
 		default: //5 혹은 이외의 수 입력시
 			printf("프로그램을 종료합니다");
 			sleep(1);
-			break;
+			exit();
 	}
 }
