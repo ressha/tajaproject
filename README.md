@@ -3,7 +3,7 @@
 
 모르는건 카톡으로
 
-#include <stdio.h>
+#include <stdio.h></br>
 #include <unistd.h>
 #include <stdlib.h>
 #include <time.h>
