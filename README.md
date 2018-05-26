@@ -4,9 +4,9 @@
 모르는건 카톡으로
 
 #include <stdio.h></br>
-#include <unistd.h>
-#include <stdlib.h>
-#include <time.h>
+#include <unistd.h></br>
+#include <stdlib.h></br>
+#include <time.h></br>
 #include <conio.h>
 
 추가하셔야 정상작동 됨(윈도우 컴파일 기준)
