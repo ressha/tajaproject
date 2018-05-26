@@ -2,7 +2,7 @@
 타자연습 프로젝트
 
 모르는건 카톡으로
-# 
+# 헤더
 #include <stdio.h></br>
 #include <unistd.h></br>
 #include <stdlib.h></br>
