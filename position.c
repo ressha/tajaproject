@@ -5,11 +5,6 @@
 #include<termios.h>
 void position(void);
 int getch(void);
-int main(void)
-{ 
-	system("clear");
-	position();
-}
 void position(void)
 {srand(time(NULL));
 		int caps=rand()%2,alpha=rand()%26;
