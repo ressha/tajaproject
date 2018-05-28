@@ -5,7 +5,7 @@
 #include<termios.h>
 void position(void);
 int getch(void);
-void position(void)
+void position(void)//메인함수는 적지 않았습니다. getch 함수는 맨 
 {srand(time(NULL));
 		int caps=rand()%2,alpha=rand()%26;
 		int answer=(caps?65:95)+alpha,input;
